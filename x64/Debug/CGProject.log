@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Projects\CGProject\Source.cpp(89,46): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Projects\CGProject\Source.cpp(90,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Projects\CGProject\Source.cpp(120,15): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Projects\CGProject\Source.cpp(121,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Projects\CGProject\Source.cpp(127,15): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Projects\CGProject\Source.cpp(129,19): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Projects\CGProject\Source.cpp(134,16): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Projects\CGProject\Source.cpp(140,16): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Projects\CGProject\Source.cpp(157,28): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Projects\CGProject\Source.cpp(162,28): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+C:\Projects\CGProject\Source.cpp(465,29): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Projects\CGProject\Source.cpp(475,28): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+  CGProject.vcxproj -> C:\Projects\CGProject\x64\Debug\CGProject.exe
